@@ -15,22 +15,15 @@
 
 mvp_agent_project/
 
+```plain text
 ├─ backend/
-
 │  ├─ main.py
-
 │  ├─ agents.py
-
 │  ├─ tasks.py
-
 │  ├─ database.py
-
 │  ├─ notifications.py
-
 │  ├─ requirements.txt
-
 ├─ frontend/
-
 │  ├─ package.json
 │  ├─ tailwind.config.js
 │  └─ src/
@@ -39,6 +32,7 @@ mvp_agent_project/
 │      └─ api.js
 ├─ docker-compose.yml
 └─ README.md
+```
 
 
 ## 安装与运行
