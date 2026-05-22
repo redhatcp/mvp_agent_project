@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+celery
+redis
+sqlite3
+pytest
+astor
+openai
