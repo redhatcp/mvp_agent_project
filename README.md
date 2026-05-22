@@ -16,13 +16,21 @@
 mvp_agent_project/
 
 ├─ backend/
+
 │  ├─ main.py
+
 │  ├─ agents.py
+
 │  ├─ tasks.py
+
 │  ├─ database.py
+
 │  ├─ notifications.py
+
 │  ├─ requirements.txt
+
 ├─ frontend/
+
 │  ├─ package.json
 │  ├─ tailwind.config.js
 │  └─ src/
